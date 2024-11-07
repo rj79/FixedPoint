@@ -5,7 +5,7 @@
     "keywords": "fixed point, fixedpoint, fixed, point, arithmetics, embedded",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rj79/fixedpoint.git"
+        "url": "https://github.com/rj79/FixedPoint.git"
     },
     "authors": [
         {

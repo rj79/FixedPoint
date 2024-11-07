@@ -1,4 +1,4 @@
-# fixedpoint
+# FixedPoint
 A library for fixed-point math.
 
 ## Features
