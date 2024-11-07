@@ -1,0 +1,23 @@
+{
+    "name": "FixedPoint",
+    "version": "0.1",
+    "description": "Library for fixed-point math.",
+    "keywords": "fixed point, fixedpoint, fixed, point, arithmetics, embedded",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rj79/fixedpoint.git"
+    },
+    "authors": [
+        {
+            "name": "Robert Johansson",
+            "email": "robertrockar@live.com",
+            "url": "",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "dependencies": {},
+    "frameworks": "Arduino",
+    "platforms": "*"
+}
